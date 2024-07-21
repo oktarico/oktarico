@@ -1,44 +1,46 @@
 # Hi there, I'm Oktarico Susilatama Putra Pradana 👋
 
-Welcome to my GitHub profile! I'm a passionate electrical engineering graduate student at UT Austin, originally from Indonesia and a proud Fulbright scholar. I have a keen interest in leveraging technology and innovative solutions to optimize petroleum extraction and production processes.
+Welcome to my GitHub profile! I'm a passionate electrical engineering graduate student at UT Austin, originally from Indonesia and a proud Fulbright scholar. I have a keen interest in leveraging technology and innovative solutions to powers systems and project design engineering.
 
 ## About Me
 
 - **🎓 Education:** 
-  - Master's in Electrical Engineering (MS PGE), University of Texas at Austin, expected May 2025
-  - Bachelor's in Petroleum Engineering, [Your University], Indonesia
+  - Master's in Electrical Engineering (MS ECE), University of Texas at Austin, expected May 2025
+  - Engineer's degree in Electrical Engineering (Engr), Institut Teknologi Bandung, Indonesia
+  - Bachelor's in Electrical Engineering, Universitas Diponegoro, Indonesia
 
 - **🔬 Research Interests:** 
-  - Enhanced Oil Recovery (EOR) Techniques
-  - Reservoir Simulation and Modeling
-  - Drilling and Production Optimization
-  - Carbon Capture and Storage (CCS)
+  - Power Systems
+  - Project Design Engineering
+
 
 - **📜 Skills:** 
-  - Programming Languages: Python, MATLAB, R
-  - Software: RSCAD, Petrel, Eclipse, CMG
+  - Programming Languages: Python, MATLAB, OpenDSS
+  - Software: AutoCAD, ETAP, EMTP
   - Data Analysis and Visualization
-  - Reservoir Simulation and Management
-  - Drilling Engineering
+
 
 - **🌍 Projects:**
-  - **[Project 1 Name]**: Description of the project.
-  - **[Project 2 Name]**: Description of the project.
-  - **[Project 3 Name]**: Description of the project.
-
+  - Power Flow of an Islanded Single-Phase 240-V Microgrid
+  - Energy Storage and Control
+  - Distribution Feeder Short-Circuit Modeling and Simulation
+  - Load Allocation and Quasi-static Time Simulation
+  - PV and Smart Inverter Control
+  - Positive Sequence Load Flow
+  - Transformers and Network Modeling and Solutions
+    
 - **📚 Workshops and Certifications:**
-  - RSCAD Workshop
-  - [Certification 1]
-  - [Certification 2]
+  - Senior Professional Engineer - Granted by The Institution of Engineers Indonesia
+  - Supervision of Electrical Transmission/Network Equipment Installation - Granted by Indonesian Professional Certification Authority
 
 - **🤝 Collaborations:**
   - Working with peers on innovative research projects.
-  - Open to collaborating on petroleum engineering and data science projects.
+
 
 ## Let's Connect!
 
-- **LinkedIn:** [Oktarico Pradana](https://www.linkedin.com/in/your-linkedin-profile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Oktarico Pradana](https://www.linkedin.com/in/oktarico/)
+- **Email:** [oktarico.pradana@utexas.edu](mailto:oktarico.pradana@utexas.edu)
 
 ## Fun Facts
 
